@@ -26,6 +26,7 @@ body {
 
 h1 {
   color: #555;
+
 }
 
 .core, .non, .supporting {
@@ -35,7 +36,6 @@ h1 {
   margin: 0px 5px;
   padding: 0px 8px;
   vertical-align: top;
-  width: 350px;
 }
 
 .core a, .core h3 {
@@ -54,6 +54,12 @@ h1 {
   background: #2e7d32;
 }
 
+.flex-column {
+  display: flex;
+  flex: 1 1 0;
+  flex-direction: column;
+}
+
 .non a, .non h3 {
   color: #ab47bc;
 }
@@ -68,6 +74,12 @@ h1 {
 
 .non a:hover:before {
   background: #6a1b9a;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 
 .supporting a, .supporting h3 {
