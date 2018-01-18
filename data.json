@@ -1,0 +1,234 @@
+{
+  "linkPage": [
+    {
+      title: "Draft",
+      url: "http://draftin.com",
+      type: "core"
+    },
+    {
+      title: "Duo Lingo",
+      url: "http://www.duolingo.com",
+      type: "core"
+    },
+    {
+      title: "IXL",
+      url: "http://www.ixl.com",
+      type: "core"
+    },
+    {
+      title: "Khan Academy",
+      url: "http://www.khanacademy.com",
+      type: "core"
+    },
+    {
+      title: "Typing Club",
+      url: "http://nalbach.typingclub.com",
+      type: "core"
+    },
+    {
+      title: "Wordly Wise 3000",
+      url: "https://hsbc.epsbooks.com/academy/login.do?cid=HSBC&database=db01",
+      type: "core"
+    },
+    {
+      title: "Advanced Fiction Writing",
+      url: "https://www.advancedfictionwriting.com/",
+      type: "nonLinks"
+    },
+    {
+      title: "All Recipes",
+      url: "http://www.allrecipes.com",
+      type: "nonLinks"
+    },
+    {
+      title: "Calvary Bible Church",
+      url: "http://www.cbctn.org",
+      type: "nonLinks"
+    },
+    {
+      title: "Chatzy",
+      url: "http://www.chatzy.com",
+      type: "nonLinks"
+    },
+    {
+      title: "Code School",
+      url: "http://www.codeschool.com",
+      type: "nonLinks"
+    },
+    {
+      title: "Color Picker",
+      url: "https://www.materialui.co/color-picker",
+      type: "nonLinks"
+    },
+    {
+      title: "Draw 3D",
+      url: "https://draw3d.com",
+      type: "nonLinks"
+    },
+    {
+      title: "Google Drive",
+      url: "https://drive.google.com",
+      type: "nonLinks"
+    },
+    {
+      title: "Google Earth",
+      url: "https://earth.google.com/web",
+      type: "nonLinks"
+    },
+    {
+      title: "Google Maps - Full Screen",
+      url: "http://www.fullscreensearch.com",
+      type: "nonLinks"
+    },
+    {
+      title: "Google Translate",
+      url: "https://translate.google.com",
+      type: "nonLinks"
+    },
+    {
+      title: "GotQuestions.org",
+      url: "https://www.gotquestions.org/",
+      type: "nonLinks"
+    },
+    {
+      title: "Grace To You",
+      url: "http://www.gty.org",
+      type: "nonLinks"
+    },
+    {
+      title: "Fact Dash",
+      url: "https://www.mhschool.com/math/2009/ca/assets/factdash.html",
+      type: "nonLinks"
+    },
+    {
+      title: "Karate",
+      url: "https://www.dropbox.com/home/Karate",
+      type: "nonLinks"
+    },
+    {
+      title: "Kids Answers",
+      url: "http://kidsanswers.org",
+      type: "nonLinks"
+    },
+    {
+      title: "Macaulay Library",
+      url: "https://www.macaulaylibrary.org",
+      type: "nonLinks"
+    },
+    {
+      title: "My Test Point (Christian Liberty)",
+      url: "http://www.mytestpoint.net",
+      type: "nonLinks"
+    },
+    {
+      title: "Rand Mcnally Maps",
+      url: "http://maps.randmcnally.com",
+      type: "nonLinks"
+    },
+    {
+      title: "Solar System Scope",
+      url: "http://www.solarsystemscope.com/",
+      type: "nonLinks"
+    },
+    {
+      title: "Wikipedia",
+      url: "http://www.wikipedia.com",
+      type: "nonLinks"
+    },
+    {
+      title: "10 Fast Fingers",
+      url: "http://www.10fastfingers.com",
+      type: "supportLinks"
+    },
+    {
+      title: "Arithmetic",
+      url: "http://arithmetic.zetamac.com",
+      type: "supportLinks"
+    },
+    {
+      title: "BibleHub",
+      url: "http://www.biblehub.com",
+      type: "supportLinks"
+    },
+    {
+      title: "Brittanica School",
+      url: "http://school.eb.com",
+      type: "supportLinks"
+    },
+    {
+      title: "Chess Kid",
+      url: "http://www.chesskid.com",
+      type: "supportLinks"
+    },
+    {
+      title: "Dictionary.com",
+      url: "http://www.dictionary.com",
+      type: "supportLinks"
+    },
+    {
+      title: "ESV Bible",
+      url: "http://www.esv.org",
+      type: "supportLinks"
+    },
+    {
+      title: "Kids Email",
+      url: "http://kids.kidsemail.org",
+      type: "supportLinks"
+    },
+    {
+      title: "Learn That Word",
+      url: "http://www.learnthat.org",
+      type: "supportLinks"
+    },
+    {
+      title: "Memrise",
+      url: "http://www.memrise.com",
+      type: "supportLinks"
+    },
+    {
+      title: "Quill",
+      url: "http://www.quill.org",
+      type: "supportLinks"
+    },
+    {
+      title: "Rewordify",
+      url: "http://www.rewordify.com",
+      type: "supportLinks"
+    },
+    {
+      title: "SoloLearn",
+      url: "http://www.sololearn.com",
+      type: "supportLinks"
+    },
+    {
+      title: "The Punctuation Guide",
+      url: "http://www.thepunctuationguide.com",
+      type: "supportLinks"
+    },
+    {
+      title: "Timer-Tab",
+      url: "http://www.timer-tab.com",
+      type: "supportLinks"
+    },
+    {
+      title: "Typing Arena",
+      url: "http://www.typingarena.com",
+      type: "supportLinks"
+    },
+    {
+      title: "Vocabulary.com",
+      url: "http://www.vocabulary.com",
+      type: "supportLinks"
+    },
+    {
+      title: "Zoho Docs",
+      url: "http://www.zoho.com",
+      type: "supportLinks"
+    },
+    {
+      title: "Z-Type",
+      url: "http://zty.pe",
+      type: "supportLinks"
+    }
+  ]
+}
